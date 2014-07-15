@@ -4,6 +4,7 @@ my first edit.
 3
 mytest4
 mytest5
+mytest7
 ====
 
 my test git
