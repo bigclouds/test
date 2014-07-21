@@ -14,6 +14,7 @@ test2
 
 
 b1
+b2
 ====
 
 my test git
